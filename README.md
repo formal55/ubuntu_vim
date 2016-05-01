@@ -1,2 +1,8 @@
 # ubuntu_vim
-Ubuntu_vim_setting
+
+Ubuntu TLS 14.04 + vim
+
+no finish
+
+--> command
+--> shell script
